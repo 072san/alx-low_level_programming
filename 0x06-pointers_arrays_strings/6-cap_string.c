@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-*cap_string - capitalizes esch word of a string
-*@s: string to e capitalized
-*Return: capitalized string
+* cap_string - function that capitalizes all words of a string
+* @str: the string
+* Return: char
 */
 
 char *cap_string(char *str)
