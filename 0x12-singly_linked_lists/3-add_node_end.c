@@ -35,7 +35,7 @@ return (node);
 while (temp->next)
 temp = temp->next;
 
-temp->next = new;
+temp->next = node;
 
 return (node);
 }
